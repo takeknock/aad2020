@@ -134,7 +134,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="BlackScholes.hpp" />
+    <ClInclude Include="doSimulation.hpp" />
+    <ClInclude Include="European.hpp" />
+    <ClInclude Include="functions.hpp" />
+    <ClInclude Include="gaussians.h" />
+    <ClInclude Include="Model.hpp" />
+    <ClInclude Include="mrg32k3a.h" />
+    <ClInclude Include="Product.hpp" />
+    <ClInclude Include="RNG.h" />
     <ClInclude Include="Sample.hpp" />
+    <ClInclude Include="SampleDef.h" />
+    <ClInclude Include="Scenario.hpp" />
+    <ClInclude Include="Time.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
