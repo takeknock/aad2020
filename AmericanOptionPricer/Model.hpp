@@ -11,7 +11,7 @@ class Model {
 public:
     virtual void allocate(
         const std::vector<Time>& prdTimeline, 
-        const vector<SampleDef>& prdDefline) = 0;
+        const std::vector<SampleDef>& prdDefline) = 0;
     
     virtual void init(
         const std::vector<Time>& prdTimeline,
