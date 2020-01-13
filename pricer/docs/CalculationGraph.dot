@@ -1,0 +1,4 @@
+digraph G{
+    x1 -> * [label = x1];
+    
+}

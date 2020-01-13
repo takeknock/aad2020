@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\mmatt\01_work\00_work2019\32_calculate_american_option_price\Pricer\pricer\pricer\Number.h(51): error C2106: '=': 左のオペランドが、左辺値になっていません。
+C:\Users\mmatt\01_work\00_work2019\32_calculate_american_option_price\Pricer\pricer\pricer\Number.h(52): error C2106: '=': 左のオペランドが、左辺値になっていません。
+C:\Users\mmatt\01_work\00_work2019\32_calculate_american_option_price\Pricer\pricer\pricer\Number.h(71): error C3867: 'Node::lDer': 非標準の構文です。メンバーにポインタを作成するには '&' を使用してください
+C:\Users\mmatt\01_work\00_work2019\32_calculate_american_option_price\Pricer\pricer\pricer\Number.h(71): error C2440: 'return': 'double *(__thiscall Node::* )(void) const' から 'double &' に変換できません。
+C:\Users\mmatt\01_work\00_work2019\32_calculate_american_option_price\Pricer\pricer\pricer\Number.h(76): error C3867: 'Node::rDer': 非標準の構文です。メンバーにポインタを作成するには '&' を使用してください
+C:\Users\mmatt\01_work\00_work2019\32_calculate_american_option_price\Pricer\pricer\pricer\Number.h(76): error C2440: 'return': 'double *(__thiscall Node::* )(void) const' から 'double &' に変換できません。
